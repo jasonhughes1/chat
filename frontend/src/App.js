@@ -8,7 +8,7 @@ export default class App extends Component {
             <div className="App">
                 <header className="App-header">
                     <div className="logo-container">
-                        <img src={require('../../../chat-application/frontend/src/assets/guild.png')} className='guild-image'></img>
+                        <img src={require('./assets/guild.png')} className='guild-image'></img>
                     </div>
                     <div>
                         <h1 className="App-title">Chat App</h1>
