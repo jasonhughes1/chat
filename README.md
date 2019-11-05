@@ -16,7 +16,7 @@
    
 ## Functionality 
 
-Open two tabs running the same localhost port and chat away!
+Open two tabs running the same localhost port and chat away! If your browsers dont seem to be syncing up correctly, make sure to hard refresh each one. 
 
 ## If I had more time/things to add in the future
 
