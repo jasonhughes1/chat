@@ -13,7 +13,7 @@
 
 Open two tabs running the same localhost port and chat away!
 
-## If I had more time
+## If I had more time/things to add in the future
 
 If I would have had more time I would have loved to test this application with Jest/Enzyme. I would have liked to explore more ways of writing a server/backend that would actually store messages. Also, adding a feature that lets one user know that the other user is typing... and some sound effects would have been cool too. 
 
