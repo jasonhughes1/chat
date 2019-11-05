@@ -8,7 +8,12 @@
 4. In frontend directory `run npm start`
 5. In server directory `run node app.js`
 
+## Versions
 
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+    "react-scripts": "3.2.0"
+   
 ## Functionality 
 
 Open two tabs running the same localhost port and chat away!
